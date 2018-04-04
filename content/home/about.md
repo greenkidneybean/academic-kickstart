@@ -12,8 +12,7 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Computational Linguistics",
-    "Information Retrieval",
-    "Python!"
+    "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
